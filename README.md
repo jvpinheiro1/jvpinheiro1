@@ -35,6 +35,13 @@ Backend
 </a>
 </p>
 
+Bancos de Dados
+<p align="left">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=mysql,oracle" />
+</a>
+</p>
+
 DevOps & Infraestrutura
 <p align="left">
 <a href="https://skillicons.dev">
@@ -45,7 +52,8 @@ DevOps & Infraestrutura
 Outras Ferramentas e Conhecimentos
 <p align="left">
 <img src="https://img.shields.io/badge/API%20REST-02303A?style=for-the-badge&logo=fastapi" alt="API REST"/>
-<img src="https://img.shields.io/badge/Node--RED-for-the-badge%26logo%3Dnodered%26logoColor%3Dwhite" alt="Node-RED"/>
+
+  <img src="https://img.shields.io/badge/Node--RED-for-the-badge%26logo%3Dnodered%26logoColor%3Dwhite" alt="Node-RED"/>
 <img src="https://img.shields.io/badge/Pandas-for-the-badge%26logo%3Dpandas%26logoColor%3Dwhite" alt="Pandas"/>
 <img src="https://img.shields.io/badge/ReactNative-for-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" alt="React Native"/>
 </p>

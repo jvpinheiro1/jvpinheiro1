@@ -68,3 +68,8 @@ Outras Ferramentas e Conhecimentos
 💡 Focado em aprimorar minhas habilidades em Arquitetura de Microsserviços e Cloud Computing.
 
 📫 Como me encontrar
+
+### 📫 Como me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/jvpinheiro1/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@jvpinheiro1.com)

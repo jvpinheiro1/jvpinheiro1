@@ -17,28 +17,28 @@ Tenho uma base sólida e experiência prática com um ecossistema diversificado 
 Linguagens de Programação
 <p align="left">
 <a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,ts,python,java,c,cpp" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons?i=js,ts,python,java,c,cpp" />
 </a>
 </p>
 
 Frontend
 <p align="left">
 <a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml,css,react,bootstrap,tailwind" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" />
 </a>
 </p>
 
 Backend
 <p align="left">
 <a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnodejs,spring,flask,dotnet" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons?i=nodejs,spring,flask,dotnet" />
 </a>
 </p>
 
 DevOps & Infraestrutura
 <p align="left">
 <a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Ddocker,kubernetes,git" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons?i=Ddocker,kubernetes,git" />
 </a>
 </p>
 

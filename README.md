@@ -67,7 +67,6 @@ Outras Ferramentas e Conhecimentos
 
 💡 Focado em aprimorar minhas habilidades em Arquitetura de Microsserviços e Cloud Computing.
 
-📫 Como me encontrar
 
 ### 📫 Como me encontrar
 

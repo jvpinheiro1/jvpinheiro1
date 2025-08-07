@@ -1,9 +1,8 @@
 Olá, eu sou o João Vitor Pinheiro Garcia! 👋
 <p align="center">
 <a href="https://www.google.com/search?q=https://github.com/SEU-USUARIO-DO-GITHUB">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSEU-USUARIO-DO-GITHUB%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DSEU-USUARIO-DO-GITHUB%26layout%3Dcompact%26langs_count%3D8%26theme%3Ddracula"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-DO-GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-DO-GITHUB&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
 👨‍💻 Sobre Mim

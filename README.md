@@ -44,11 +44,11 @@ DevOps & Infraestrutura
 
 Outras Ferramentas e Conhecimentos
 <p align="left">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/API%2520REST-02303A%3Fstyle%3Dfor-the-badge%26logo%3Dfastapi" alt="API REST"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Scrum-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dazuredevops" alt="Scrum"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node--RED-8F0000%3Fstyle%3Dfor-the-badge%26logo%3Dnodered%26logoColor%3Dwhite" alt="Node-RED"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite" alt="Pandas"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/React%2520Native-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" alt="React Native"/>
+<img src="https://img.shields.io/badge/API%2520REST-02303A%3Fstyle%3Dfor-the-badge%26logo%3Dfastapi" alt="API REST"/>
+<img src="https://img.shields.io/badge/Scrum-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dazuredevops" alt="Scrum"/>
+<img src="https://img.shields.io/badge/Node--RED-8F0000%3Fstyle%3Dfor-the-badge%26logo%3Dnodered%26logoColor%3Dwhite" alt="Node-RED"/>
+<img src="https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite" alt="Pandas"/>
+<img src="https://img.shields.io/badge/React%2520Native-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" alt="React Native"/>
 </p>
 
 🌱 Atualmente

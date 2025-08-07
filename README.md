@@ -31,7 +31,7 @@ Frontend
 Backend
 <p align="left">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=nodejs,spring,flask,dotnet" />
+<img src="https://skillicons.dev/icons?i=nodejs,spring,flask,dotnet,prisma" />
 </a>
 </p>
 
@@ -45,7 +45,7 @@ Bancos de Dados
 DevOps & Infraestrutura
 <p align="left">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=Ddocker,kubernetes,git,docker" />
+<img src="https://skillicons.dev/icons?i=Ddocker,kubernetes,git,docker,linux,nginx,jenkins" />
 </a>
 </p>
 

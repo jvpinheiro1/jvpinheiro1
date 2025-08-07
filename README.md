@@ -53,9 +53,9 @@ Outras Ferramentas e Conhecimentos
 <p align="left">
 <img src="https://img.shields.io/badge/API%20REST-02303A?style=for-the-badge&logo=fastapi" alt="API REST"/>
 <img src="https://img.shields.io/badge/Scrum-0078D4?style=for-the-badge&logo=azuredevops" alt="Scrum"/>
-  <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white" alt="Node-RED"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Kali-267FF7?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+<img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white" alt="Node-RED"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Kali-267FF7?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
 </p>
 
 🌱 Atualmente

@@ -24,7 +24,7 @@ Linguagens de Programação
 Frontend
 <p align="left">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,react-native" />
 </a>
 </p>
 
@@ -38,7 +38,7 @@ Backend
 DevOps & Infraestrutura
 <p align="left">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=Ddocker,kubernetes,git" />
+<img src="https://skillicons.dev/icons?i=Ddocker,kubernetes,git,docker" />
 </a>
 </p>
 

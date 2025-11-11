@@ -58,7 +58,7 @@ Outras Ferramentas e Conhecimentos
 <img src="https://img.shields.io/badge/Kali-267FF7?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
 </p>
 
-🌱 Atualmente
+<p>🌱 Atualmente</p>
 👨‍💻 Desenvolvedor na Tecumseh do Brasil.
 
 🎓 Finalizando a graduação em Análise e Desenvolvimento de Sistemas (SENAI, conclusão em 2025).

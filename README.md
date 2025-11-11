@@ -6,7 +6,7 @@ Olá, eu sou o João Vitor Pinheiro Garcia! 👋
 </a>
 </p>
 
-👨‍💻 Sobre Mim
+<p>👨‍💻 Sobre Mim</p>
 Desenvolvedor de software com experiência em ambiente corporativo e uma forte base acadêmica. Atualmente, trabalho há 1 ano como Desenvolvedor na Tecumseh do Brasil, onde aplico meus conhecimentos para criar e manter soluções de software eficientes.
 
 Estou finalizando minha graduação em Análise e Desenvolvimento de Sistemas pelo SENAI e o curso Técnico em Desenvolvimento de Sistemas, com previsão de conclusão para ambos em 2025. Sou apaixonado por tecnologia, especialmente no desenvolvimento de APIs REST e na cultura DevOps para otimização de processos.

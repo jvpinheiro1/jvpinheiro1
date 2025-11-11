@@ -11,7 +11,7 @@ Desenvolvedor de software com experiência em ambiente corporativo e uma forte b
 
 Estou finalizando minha graduação em Análise e Desenvolvimento de Sistemas pelo SENAI e o curso Técnico em Desenvolvimento de Sistemas, com previsão de conclusão para ambos em 2025. Sou apaixonado por tecnologia, especialmente no desenvolvimento de APIs REST e na cultura DevOps para otimização de processos.
 
-🚀 Tecnologias e Ferramentas
+<p>🚀 Tecnologias e Ferramentas</p>
 Tenho uma base sólida e experiência prática com um ecossistema diversificado de tecnologias.
 
 Linguagens de Programação
